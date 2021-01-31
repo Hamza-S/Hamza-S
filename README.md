@@ -1,5 +1,6 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-s)](https://github.com/hamza-s/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-S&layout=compact)](https://github.com/Hamza-S/github-readme-stats)
 
 <!--
 **Hamza-S/Hamza-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
