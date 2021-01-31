@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there, I'm Hamza! 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-S&layout=compact)](https://github.com/Hamza-S/github-readme-stats)
 
